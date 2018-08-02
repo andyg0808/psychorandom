@@ -1,0 +1,29 @@
+{
+  "name": "psychorandom",
+  "version": "0.0.1",
+  "description": "Sort items in an order which appears more random to humans",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/andyg0808/psychorandom.git"
+  },
+  "author": "Andrew Gilbert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/andyg0808/psychorandom/issues"
+  },
+  "homepage": "https://gitlab.com/andyg0808/psychorandom#README",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "webpack-command": "^0.4.1",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "sinon": "^6.1.4",
+    "testem": "^2.9.0",
+    "webpack": "^4.16.3"
+  }
+}
